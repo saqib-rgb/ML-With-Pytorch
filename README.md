@@ -1,4 +1,4 @@
-#### Learning PyTorch from Beginning to End
+# Learning PyTorch from Beginning to End
 This repository contains a collection of Jupyter notebooks that will guide you through learning PyTorch, a popular open-source machine learning library.
 
 ## Table of Contents
@@ -9,7 +9,7 @@ This repository contains a collection of Jupyter notebooks that will guide you t
 * Training a Neural Network in PyTorch
 * Saving and Loading Models in PyTorch
 * Transfer Learning with PyTorch
-* Requirements
+## Requirements
 * Python 3
 * PyTorch
 * Jupyter Notebook or JupyterLab
